@@ -1,10 +1,8 @@
 {
  "name": "Casa Lube - Bicicletas",
- "theme_color": "#FFFFFF",
  "description": "Un paraíso para ciclistas de todas las edades! Bicicletas, servicio técnico, repuestos, accesorios y mucho más!",
  "display": "fullscreen",
- "start_url": "index.htm",
- "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +39,7 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ]
+ ],
+ "background_color": "#FFFFFF",
+ "start_url": "index.htm"
 }
