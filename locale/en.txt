@@ -1,0 +1,78 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Un paraíso para ciclistas de todas las edades! Bicicletas, servicio técnico, repuestos, accesorios y mucho más!
+
+### Title
+tour.name = Casa Lube - Bicicletas
+
+## Skin
+
+### Button
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = UBICACIÓN
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9_mobile.label = UBICACIÓN
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = PERSPECTIVAS
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = PERSPECTIVAS
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = FOTOS
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = FOTOS
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = INFO
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFO
+
+### Multiline Text
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.9vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.9vw;font-family:'Exo';"><B><I>Lube Sport</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.2285012285012284vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.23vw;font-family:'Raleway';"><B>Somos una empresa de venta de bicicletas de todas las gamas, las mejores marcas y de la mejor calidad y garantía, con una amplia variedad de accesorios así como un servicio técnico sobresaliente.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.23vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.2285012285012284vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.23vw;font-family:'Raleway';"><B>Nuestro equipo de técnicos tienen la más alta experiencia en restauración, mantenimiento y reparación y son los mejores en el rubro; desde bicicletas para niños hasta las de competición profesional.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.23vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.2285012285012284vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.23vw;font-family:'Raleway';"><B>En nuestra tienda encontraras una atención personalizada y personas con una excelente predisposición. Tenemos todo lo que necesites para equiparte y </B></SPAN><SPAN STYLE="color:#0000ff;font-size:1.23vw;font-family:'Raleway';"><B>también trabajamos sobre pedidos especiales</B></SPAN><SPAN STYLE="font-size:1.23vw;font-family:'Raleway';"><B>.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.23vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2285012285012284vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.23vw;font-family:'Raleway';"><B>Nuestros 30 años de experiencia te garantizan el mejor asesoramiento así como una experiencia gratificante al momento de elegir tu primera bici o renovar la que ya tenés.</B></SPAN></SPAN></DIV></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.555555555555555vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.56vw;font-family:'Exo';"><B><I>Lube Sport</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.333333333333333vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vw;font-family:'Raleway';"><B>Somos una empresa de venta de bicicletas de todas las gamas, las mejores marcas y de la mejor calidad y garantía, con una amplia variedad de accesorios así como un servicio técnico sobresaliente.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.33vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.333333333333333vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vw;font-family:'Raleway';"><B>Nuestro equipo de técnicos tienen la más alta experiencia en restauración, mantenimiento y reparación y son los mejores en el rubro; desde bicicletas para niños hasta las de competición profesional.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.33vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:3.333333333333333vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vw;font-family:'Raleway';"><B>En nuestra tienda encontraras una atención personalizada y personas con una excelente predisposición. Tenemos todo lo que necesites para equiparte y </B></SPAN><SPAN STYLE="color:#0000ff;font-size:3.33vw;font-family:'Raleway';"><B>también trabajamos sobre pedidos especiales</B></SPAN><SPAN STYLE="font-size:3.33vw;font-family:'Raleway';"><B>.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.33vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.333333333333333vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vw;font-family:'Raleway';"><B>Nuestros 30 años de experiencia te garantizan el mejor asesoramiento así como una experiencia gratificante al momento de elegir tu primera bici o renovar la que ya tenés.</B></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+album_61E25333_77ED_FE9C_41AF_6AD7860DDC71.label = Photo Album
+panorama_F8228A9D_F45E_60B1_41E9_0FFE27DE38DA.label = Punto 3
+panorama_F8390A7B_F45E_2071_41E5_F3BB74797488.label = Punto 5
+panorama_F83C3450_F45F_E78F_41DF_A9BAA5711E53.label = Punto 4
+panorama_F842E283_F45A_E091_41C8_0068AA10F488.label = Punto 7
+panorama_F861E601_F45A_6390_41E2_0C72D680C378.label = Punto 8
+panorama_F86C61E1_F44E_2090_41E6_9783DEA02438.label = Punto 14
+panorama_F8802276_F456_E073_41D3_22FB539BA6F4.label = Punto 12
+panorama_F8909341_F456_2190_41E6_93D829C2052A.label = Punto 11
+panorama_F891BEEC_F456_2097_41D5_B814BFFBFBBB.label = Punto 10
+panorama_F89301B6_F459_E0F3_41D5_97018EAFFABB.label = Punto 9
+panorama_F8A810E9_F456_6091_41D8_F13BD13A9438.label = Punto 13
+panorama_F8BAEDD7_F44E_E0B1_41C6_6DB39738E59E.label = Punto 14
+panorama_F8BC684D_F44E_6F91_41E8_9B583033DFFB.label = Punto 1
+panorama_FB8BD6BE_F45A_20F0_41C7_6A6BE1288B3B.label = Punto 6
+panorama_FBA42E4C_F45E_2397_41CC_E49EC54EBE19.label = Punto 2
+
+## Action
+
+### URL
+LinkBehaviour_7BA51871_77AC_AA9C_41B4_B08C53229AF2.source = http://twitter.com/loremipsum
+LinkBehaviour_7BA54871_77AC_AA9C_41D9_B442AADBEA90.source = http://www.facebook.com/loremipsum
+LinkBehaviour_D6650D19_F5DE_21B1_41E5_CD8C213C8EF0.source = http://www.facebook.com/loremipsum
+LinkBehaviour_D6655D19_F5DE_21B1_41D2_DE76FBC7CE19.source = http://twitter.com/loremipsum
+
+## E-Learning
+
+### Score Name
+score1.label = Score 1
+
+### Question Screen
+quizQuestion_EBA191F4_F44A_2077_41DA_C9CDE8ADA24D.ok = OK
+
+### Report Screen
+quizScore_EBA7A1F4_F44A_2077_41E8_7A164AEE560D.completion = Completed
+quizScore_EBA7A1F4_F44A_2077_41E8_7A164AEE560D.downloadCSV = Download .csv
+quizScore_EBA7A1F4_F44A_2077_41E8_7A164AEE560D.elapsedTime = Time
+quizScore_EBA7A1F4_F44A_2077_41E8_7A164AEE560D.items = Items Found
+quizScore_EBA7A1F4_F44A_2077_41E8_7A164AEE560D.questions = Questions
+quizScore_EBA7A1F4_F44A_2077_41E8_7A164AEE560D.questionsCorrect = Correct
+quizScore_EBA7A1F4_F44A_2077_41E8_7A164AEE560D.questionsIncorrect = Incorrect
+quizScore_EBA7A1F4_F44A_2077_41E8_7A164AEE560D.repeat = Repeat
+quizScore_EBA7A1F4_F44A_2077_41E8_7A164AEE560D.submitToLMS = Submit
+quizScore_EBA7A1F4_F44A_2077_41E8_7A164AEE560D.title = - SCORE -
+
+### Timeout Screen
+quizTimeout_EBA1E1F3_F44A_2071_41C6_26A3EC5B4958.repeat = Repeat
+quizTimeout_EBA1E1F3_F44A_2071_41C6_26A3EC5B4958.score = View Score
+quizTimeout_EBA1E1F3_F44A_2071_41C6_26A3EC5B4958.title = - TIMEOUT -
